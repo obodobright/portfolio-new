@@ -7,45 +7,45 @@ const Projects = () => {
       description:
         "Grocred is a fintech company that makes it easy for newcomers to the UK to build a good credit score while shopping for groceries and essentials",
       technologies: ["React", "Node.js", "MongoDB"],
-      image: "/assets/grocred1.png",
+      image: "/images/grocred1.png",
     },
     {
       title: "Titranstech",
       description:
         "We provide expert consultancy services to help businesses harness the power of technology, streamline operations, and drive digital transformation.",
       technologies: ["Next.js", "Firebase", "Tailwind CSS"],
-      image: "/assets/titrans.png",
+      image: "/images/titrans.png",
     },
     {
       title: "Afrione",
       description: "Afrione is a social media dashboard with analytics",
       technologies: ["React", "D3.js", "Nextjs"],
-      image: "/assets/afrione.png",
+      image: "/images/afrione.png",
     },
     // {
     //   title: "Bellmari",
     //   description: "Bellmari is a platform where you can find best oil suppplies in bulk quantity",
     //   technologies: ["React", "D3.js", "Nextjs"],
-    //   image: "/assets/bellmari.png",
+    //   image: "/images/bellmari.png",
     // },
     {
       title: "Knight Ventures",
       description:
         "Knight Ventures is a platform that helps you find the best venture capital firms",
       technologies: ["React", "Nodejs", "Express", "Nextjs"],
-      image: "/assets/kv.png",
+      image: "/images/kv.png",
     },
     {
       title: "Sportix",
       description: "Sportix is a platform that helps you find the best sports events",
       technologies: ["React", "Nodejs", "Express", "Nextjs"],
-      image: "/assets/sportix.png",
+      image: "/images/sportix.png",
     },
     {
       title: "Keta",
       description: "Keta is an event planner platform",
       technologies: ["React", "Nodejs", "Express", "Nextjs"],
-      image: "/assets/keta.png",
+      image: "/images/keta.png",
     },
   ];
   // https://bellmari-2rbl.vercel.app/
