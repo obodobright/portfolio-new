@@ -7,7 +7,7 @@ const Hero = () => {
           <span className="gradient-text">Welcome</span> to My Portfolio
         </h1>
         <p className="text-xl md:text-2xl mb-8 text-gray-700 dark:text-gray-300 animate-slide-in">
-          I'm a passionate developer creating amazing web experiences
+          I&apos;m a passionate developer creating amazing web experiences
         </p>
         <a
           href="#contact"
