@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  metadataBase: new URL("https://your-portfolio-domain.com"),
+  metadataBase: new URL("https://obodobright-one.vercel.app/"),
   title: {
     default: "Obodo Bright | Full Stack Developer",
     template: "%s | Obodo Bright",
@@ -34,7 +34,7 @@ export const metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://your-portfolio-domain.com",
+    url: "https://obodobright-one.vercel.app/",
     siteName: "Obodo Bright Portfolio",
     title: "Obodo Bright | Full Stack Developer",
     description:
@@ -71,7 +71,7 @@ export const metadata = {
     google: "your-google-site-verification", // Add your Google Search Console verification code
   },
   alternates: {
-    canonical: "https://your-portfolio-domain.com",
+    canonical: "https://obodobright-one.vercel.app/",
   },
 };
 
